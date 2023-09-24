@@ -175,5 +175,9 @@ int main() { // Начало работы основной функции
 		printf("*******************");
 		printf("Hello, world!!) git");
 		printf("Hello, world!!) gitddddddd");
+		//git remotec add origin https ://github.com/La3euka04/first_reposit.git
+		//git remotec add origin https ://github.com/La3euka04/first_reposit.git
+		//git remotec add origin https ://github.com/La3euka04/first_reposit.git
+		//git remotec add origin https ://github.com/La3euka04/first_reposit.git
 	return 0; // Окончание работы программы
 }
